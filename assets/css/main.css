@@ -1,0 +1,55 @@
+h1{
+    color: red;
+    text-align:center;
+}
+.sharingan{
+    height:auto;
+    max-width:15%;
+    float: right;
+}
+.itachi{
+    height:auto;
+    max-width:20%;
+    float: left;
+}
+.tituloimg{
+    margin-top: 1rem;
+}
+dt{
+    color: red;
+    font-family:Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: black;
+    display:block;
+    margin: 8px;
+}
+.foto{
+    height:auto;
+    max-width:100%;
+
+}
+.edu{
+    color: red;
+    font-family:Georgia, Times, 'Times New Roman', serif;
+}
+.his{
+    color: red;
+    font-family:Georgia, Times, 'Times New Roman', serif;
+}
+.tabla {
+    color: red;
+    width: auto;
+    border-spacing: 0.5rem;
+}
+
+.tabla td,th {
+    padding: 0rem;
+    text-align:left;
+}
+.fa-clipboard-check{
+    color:red;
+}
+.fa-clipboard{
+    color:red;
+}
